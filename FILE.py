@@ -1,3 +1,4 @@
+print("هكر محتوى غير معين!")
 import os, platform, time, sys
 
 try:
