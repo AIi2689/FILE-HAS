@@ -1,3 +1,4 @@
+print("هكر محتوى غير معين!")
 # Encrypt By : Hazrat
 # Encrypt : Py3
 # Github : hazrat jani
